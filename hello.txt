@@ -8,3 +8,4 @@ hello world 2222222222
 hello world 2222222222 hot-fix
 hello world 2222222222
 laqu
+ssh_push_test
